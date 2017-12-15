@@ -15,3 +15,6 @@ global minimum:
   f(x)=-n·418.9829; x(i)=420.9687, i=1:n. 
 This function is implemented in objfun7.
 
+# Contributors
+Yurii Stasinchuk - yra100@gmail.com
+Yur Tepliukh - tepliukh@ucu.edu.ua
